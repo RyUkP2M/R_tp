@@ -12,7 +12,7 @@ RegisterCommand("tp", function(source, args, rawCommand)
 end, false)
 
 function TeleportPlayer(coords)
-    local player = GetPlayerPed(-1)
+    local player = PlayerPedId()
 
     if IsPedInAnyVehicle(player, false) then
         TaskLeaveVehicle(player, GetVehiclePedIsIn(player, false), 0)
