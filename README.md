@@ -1,4 +1,4 @@
-Script By RyUk disccord : ryukp2m
+Script By RyUk disccord : https://discord.gg/NzMyHWyjTf
 
 # R_tp
 Easy Coordinates Teleport for FiveM Servers
